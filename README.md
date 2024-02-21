@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sup welcome to my profile!</h1>
 
 
-<p>Sup welcome to my profile! </br> I'm rustyspotted (@b), software engineer & game developer from <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="15"/> <b>Rabat, Morocco</b></p>
+</br> I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="15"/> <b>Rabat, Morocco</b>
 <h3>Programming Languages</h3>
 <p>
   <img alt="Luau" src="https://img.shields.io/badge/-Luau-007ACC?style=flat-square&logo=lua&logoColor=white" />
