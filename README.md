@@ -33,7 +33,7 @@
   </tbody>
 </table>
 <h3>About where I live</h3>
-<br/>Currently, the weather is: <b> 20°C, <i>sunny</i></b></br>Today, the sun rises at <b>08:05</b> and sets at <b>19:16</b>.
+Currently, the weather is: <b> 20°C, <i>sunny</i></b></br>Today, the sun rises at <b>08:05</b> and sets at <b>19:16</b>.
 <h3>Where to find me</h3>
 <p><a href="https://github.com/rustyspottedcatt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/zzen_a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </p>
