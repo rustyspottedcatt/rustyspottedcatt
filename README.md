@@ -19,20 +19,30 @@ I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https:/
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🔥 Visits</b></td>
+      <td><b>📗 Position</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://www.roblox.com/games/10238264463/Last-Words"><b>Last Words</b></a></td>
+      <td><b>45.6M+</b></td>
+      <td><b>Ex-Developer</b></td>
     </tr>
     <tr>
       <td><a href="https://twitter.com/zzen_a/status/1751176025063518288"><b>PLS DONATE but with Infinite Robux (banned)</b></a></td>
+      <td><b>2.9M+ & 17,000+ CCU</b></td>
+      <td><b>Main-Developer & Concept Owner</b></td>
     </tr>
     <tr>
       <td><a href="https://www.roblox.com/games/14618918452/Obby-But-Youre-in-a-Car"><b>Obby But You're in a Car</b></a></td>
+      <td><b>2.9M+</b></td>
+      <td><b>Ex-Main Developer</b></td>
     </tr>
     <tr>
       <td><a href="https://www.roblox.com/games/9375617486/submarine-hangout"><b>submarine hangout</b></a></td>
+      <td><b>1.4M+</b></td>
+      <td><b>Developer</b></td>
     </tr>
   </tbody>
 </table>
