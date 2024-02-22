@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sup, welcome to my profile!</h1>
 
-</br> I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="15"/> <b>Rabat, Morocco</b>
+I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="15"/> <b>Rabat, Morocco</b>
 <br/> I have over 70,000,000+ visits and managed to get 17,000+ players on a single game. </br>
 <h3>Programming Languages</h3>
 <p>
