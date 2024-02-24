@@ -30,7 +30,7 @@ I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https:/
       <td><b>Ex-Developer</b></td>
     </tr>
     <tr>
-      <td><a href="https://twitter.com/zzen_a/status/1751176025063518288"><b>PLS DONATE but with Infinite Robux (banned)</b></a></td>
+      <td><a href="https://twitter.com/zzen_a/status/1761332924127879263"><b>PLS DONATE but with Infinite Robux (banned)</b></a></td>
       <td><b>2.9M+ & 17,000+ CCU</b></td>
       <td><b>Main-Developer & Concept Owner</b></td>
     </tr>
