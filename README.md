@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sup, welcome to my profile!</h1>
 
 I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="15"/> <b>Rabat, Morocco</b>
-<br/> I have over 70,000,000+ visits and managed to get 17,000+ players on a single game. </br>
+<br/> I have atteined over 50,000,000+ visits from creating experiences on Roblox and managed to get 18,000+ players on a single game. </br>
 <h3>Programming Languages</h3>
 <p>
   <img alt="Luau" src="https://img.shields.io/badge/-Luau-007ACC?style=flat-square&logo=lua&logoColor=white" />
@@ -14,38 +14,6 @@ I'm rustyspotted (@b), Software Engineer & Game Developer from <img src="https:/
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-<h3>Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>🔥 Visits</b></td>
-      <td><b>📗 Position</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.roblox.com/games/10238264463/Last-Words"><b>Last Words</b></a></td>
-      <td><b>45.6M+</b></td>
-      <td><b>Ex-Developer</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://twitter.com/zzen_a/status/1761332924127879263"><b>PLS DONATE but with Infinite Robux (banned)</b></a></td>
-      <td><b>2.9M+ & 17,000+ CCU</b></td>
-      <td><b>Main-Developer & Concept Owner</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.roblox.com/games/14618918452/Obby-But-Youre-in-a-Car"><b>Obby But You're in a Car</b></a></td>
-      <td><b>2.9M+</b></td>
-      <td><b>Ex-Main Developer</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.roblox.com/games/9375617486/submarine-hangout"><b>submarine hangout</b></a></td>
-      <td><b>1.4M+</b></td>
-      <td><b>Developer</b></td>
-    </tr>
-  </tbody>
-</table>
 <h3>About where I live</h3>
 Currently, the weather is: <b> 20°C, <i>sunny</i></b></br>Today, the sun rises at <b>08:05</b> and sets at <b>19:16</b>.
 <h3>Where to find me</h3>
